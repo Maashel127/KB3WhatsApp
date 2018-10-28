@@ -1,6 +1,6 @@
-﻿{"version_code":451205,"content":"
+﻿{"version_code":451207,"content":"
 
-<p>تحديث 3.20</p>
+<p>تحديث 1.30</p>
 
 <li> التحديث لنسخة الماركت 2.18.203</li>
 
@@ -32,7 +32,6 @@
 
 <li> إصلاحات اخرى</li>
 
-","url":"http://www.alaqel2ahmed.xyz/2018/08/whatsapp4ye.html"
+","url":"https://www.alaqel2ahmed.xyz/2018/08/whatsapp4ye.html"
 
 }
-
